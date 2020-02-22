@@ -1,0 +1,27 @@
+name: Wichtig
+main: Crow\Wichtig
+api: [3.0.0, 4.0.0]
+version: 1.0.2
+author: Crow
+
+commands:
+ YouTube:
+ description: YouTube
+ usage: "/YouTube"
+ permission: YouTube.cmd
+ Discord:
+ description: Discord
+ usage: "/Discord"
+ permission: DC.cmd
+ DC:
+ description: Discord
+ usage: "/DC"
+ permission: DC.cmd
+ Premium:
+ description: Sehe Was Premium Kann
+ usage: "/Premium"
+ permission: premium.cmd
+ Supreme:
+ description: Sehe Was Supreme Kann
+ usage: "/Supreme"
+ permission: supreme.cmd
